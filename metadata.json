@@ -1,0 +1,6 @@
+{
+  "name": "MJ Cyber Moonwalk: Neo Runner",
+  "description": "An action-packed 2D cyberpunk side-scrolling runner featuring smooth moonwalk jumps, anti-gravity floats, glowing power-up orbs, Web Audio synth effects, dynamic obstacle challenges, and local high-score leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
